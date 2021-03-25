@@ -1,0 +1,20 @@
+id,firstName,lastName,billingId,product,price,birth,dummyCol
+1,Luis,Alvarez$$%!,123,Cake,10,07-07-1980,never
+2,André,Ampère,423,piza,8,08-07-1950,gonna
+3,NiELS,Böhr//((%%,551,pizza,8,09-07-1990,give
+4,PAUL,dirac$,521,pizza,8,10-07-1954,you
+5,Albert,Einstein,634,pizza,8,11-07-1990,up
+6,Galileo,             GALiLEI,672,arepa,5,12-08-1930,never
+7,CaRL,Ga%%%uss,323,taco,3,13-07-1970,gonna
+8,David,H$$$ilbert,624,taaaccoo,3,14-07-1950,let
+9,Johannes,KEPLER,735,taco,3,22-04-1920,you
+10,JaMES,M$$ax%%well,875,taco,3,12-03-1923,down
+11,Isaac,Newton,992,pasta,9,15-02-1999,never 
+12,Emmy%%,Nöether$,234,pasta,9,08-12-1993,gonna
+13,Max!!!,Planck!!!,111,hamburguer,4,04-01-1994,run 
+14,Fred,Hoy&&&le,553,pizzza,8,27-06-1997,around
+15,(((   Heinrich ))))),Hertz,116,pizza,8,30-11-1956,and
+16,William,Gilbert###,886,BEER,2,26-03-1958,desert
+17,Marie,CURIE,912,Rice,1,22-03-2000,you
+18,Arthur,COM%%%pton,812,110790,5,1899/01/01,#
+19,JAMES,Chadwick,467,null,10,03-05-1921,#
